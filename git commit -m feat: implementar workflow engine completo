@@ -1,5 +1,0 @@
-git commit -m "feat: implementar estrutura de grafo e gerenciamento de tarefas"
-git commit -m "feat: adicionar algoritmos de ciclos e ordenação topológica"
-git commit -m "feat: implementar MaxHeap e priorização de execução"
-git commit -m "feat: desenvolver Workflow Engine e geração de relatórios"
-git commit -m "test: adicionar cenários de teste e validações"
